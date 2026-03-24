@@ -8,11 +8,8 @@ import net.ntrdeal.ntrdeals_items.config.ModConfig;
 import net.ntrdeal.ntrdeals_items.entity.ModAttributes;
 import net.ntrdeal.ntrdeals_items.item.ModItems;
 import net.ntrdeal.ntrdeals_items.world.gen.ModWorldGen;
-import org.jspecify.annotations.Nullable;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import java.io.PrintStream;
 
 public class NTRDealsItems implements ModInitializer {
 	public static final String MOD_ID = "ntrdeals_items";

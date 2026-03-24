@@ -1,7 +1,6 @@
 package net.ntrdeal.ntrdeals_items.config;
 
 import net.fabricmc.fabric.api.resource.v1.DataResourceLoader;
-import net.fabricmc.fabric.api.resource.v1.reloader.ResourceReloaderKeys;
 import net.minecraft.resources.Identifier;
 import net.ntrdeal.ntrdeals_items.registries.ModRegistries;
 

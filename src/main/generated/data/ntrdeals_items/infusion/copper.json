@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "minecraft:max_health": {
+      "type": "positive",
+      "value": 5.0
+    },
+    "minecraft:scale": {
+      "type": "negative",
+      "value": 0.25
+    }
+  },
+  "material": "minecraft:copper"
+}

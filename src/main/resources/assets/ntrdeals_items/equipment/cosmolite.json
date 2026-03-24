@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "ntrdeals_items:cosmolite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "ntrdeals_items:cosmolite"
+      }
+    ]
+  }
+}

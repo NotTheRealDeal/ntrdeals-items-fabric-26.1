@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "ntrdeals_items:passive_regeneration": {
+      "type": "positive",
+      "value": 0.25
+    },
+    "realapi:appetite": {
+      "type": "positive",
+      "value": -0.15
+    }
+  },
+  "material": "minecraft:amethyst"
+}

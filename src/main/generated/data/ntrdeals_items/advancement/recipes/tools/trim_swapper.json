@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cosmolite_armor": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#ntrdeals_items:cosmolite_armor"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "ntrdeals_items:trim_swapper"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cosmolite_armor"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "ntrdeals_items:trim_swapper"
+    ]
+  }
+}

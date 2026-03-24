@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "ntrdeals_items:raw_lunarite",
+    "ntrdeals_items:raw_lunarite"
+  ],
+  "result": {
+    "id": "ntrdeals_items:lunarite_ingot"
+  }
+}

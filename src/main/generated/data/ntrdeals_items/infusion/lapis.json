@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "minecraft:max_health": {
+      "type": "negative",
+      "value": -5.0
+    },
+    "ntrdeals_items:clamped_scale": {
+      "type": "positive",
+      "value": -0.25
+    }
+  },
+  "material": "minecraft:lapis"
+}

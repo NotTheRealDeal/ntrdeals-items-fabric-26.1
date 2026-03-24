@@ -1,0 +1,17 @@
+{
+  "attributes": {
+    "minecraft:attack_damage": {
+      "type": "negative",
+      "value": -2.0
+    },
+    "minecraft:attack_speed": {
+      "type": "positive",
+      "value": 0.6
+    },
+    "minecraft:block_break_speed": {
+      "type": "positive",
+      "value": 0.25
+    }
+  },
+  "material": "minecraft:gold"
+}

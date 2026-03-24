@@ -1,0 +1,17 @@
+{
+  "attributes": {
+    "minecraft:attack_damage": {
+      "type": "negative",
+      "value": -2.0
+    },
+    "realapi:charge_time": {
+      "type": "negative",
+      "value": 0.125
+    },
+    "realapi:ranged_attack_multiplier": {
+      "type": "positive",
+      "value": 0.25
+    }
+  },
+  "material": "minecraft:resin"
+}

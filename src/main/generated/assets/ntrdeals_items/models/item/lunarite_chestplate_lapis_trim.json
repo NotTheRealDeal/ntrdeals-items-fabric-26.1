@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ntrdeals_items:item/lunarite_chestplate",
+    "layer1": "minecraft:trims/items/chestplate_trim_lapis"
+  }
+}

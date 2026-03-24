@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "C": "ntrdeals_items:cosmolite_ingot",
+    "S": "minecraft:smithing_table"
+  },
+  "pattern": [
+    "CCC",
+    "CSC",
+    "CCC"
+  ],
+  "result": {
+    "id": "ntrdeals_items:trim_swapper"
+  }
+}

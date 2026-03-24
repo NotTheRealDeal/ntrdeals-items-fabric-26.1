@@ -1,0 +1,21 @@
+{
+  "attributes": {
+    "minecraft:armor_toughness": {
+      "type": "positive",
+      "value": 2.0
+    },
+    "minecraft:knockback_resistance": {
+      "type": "positive",
+      "value": 0.1
+    },
+    "realapi:bane_of_adolescence": {
+      "type": "positive",
+      "value": 2.0
+    },
+    "realapi:fire_damage_multiplier": {
+      "type": "positive",
+      "value": -0.25
+    }
+  },
+  "material": "minecraft:netherite"
+}

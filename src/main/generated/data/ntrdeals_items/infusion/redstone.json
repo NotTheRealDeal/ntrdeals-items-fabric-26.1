@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "minecraft:step_height": {
+      "type": "positive",
+      "value": 0.25
+    },
+    "realapi:movement_scale": {
+      "type": "positive",
+      "value": 0.125
+    }
+  },
+  "material": "minecraft:redstone"
+}

@@ -1,0 +1,17 @@
+{
+  "attributes": {
+    "minecraft:oxygen_bonus": {
+      "type": "positive",
+      "value": 0.75
+    },
+    "minecraft:submerged_mining_speed": {
+      "type": "positive",
+      "value": 0.2
+    },
+    "minecraft:water_movement_efficiency": {
+      "type": "positive",
+      "value": 0.25
+    }
+  },
+  "material": "minecraft:emerald"
+}

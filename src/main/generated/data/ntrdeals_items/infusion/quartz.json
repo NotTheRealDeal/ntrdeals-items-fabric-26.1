@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "minecraft:attack_knockback": {
+      "type": "positive",
+      "value": 0.5
+    },
+    "minecraft:fall_damage_multiplier": {
+      "type": "positive",
+      "value": -0.25
+    }
+  },
+  "material": "minecraft:quartz"
+}

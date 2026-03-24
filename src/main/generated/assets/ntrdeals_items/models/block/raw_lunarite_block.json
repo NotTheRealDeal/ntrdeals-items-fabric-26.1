@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ntrdeals_items:block/raw_lunarite_block"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "feature": "ntrdeals_items:lunarite_geode",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 85
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "max_inclusive": {
+          "above_bottom": 94
+        },
+        "min_inclusive": {
+          "above_bottom": 64
+        }
+      }
+    }
+  ]
+}

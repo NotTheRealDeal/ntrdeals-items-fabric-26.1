@@ -1,0 +1,13 @@
+{
+  "attributes": {
+    "minecraft:armor": {
+      "type": "positive",
+      "value": 2.0
+    },
+    "realapi:shield_fragility": {
+      "type": "positive",
+      "value": -0.15
+    }
+  },
+  "material": "minecraft:diamond"
+}
